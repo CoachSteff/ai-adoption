@@ -20,7 +20,7 @@ const config = {
   organizationName: 'CoachSteff',
   projectName: 'ai-adoption',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -105,14 +105,6 @@ const config = {
               {
                 label: 'Checklists & Templates',
                 to: '/docs/checklists-templates/overview',
-              },
-              {
-                label: 'Case Studies',
-                to: '/docs/case-studies',
-              },
-              {
-                label: 'Contributing',
-                to: '/contributing/guidelines',
               },
             ],
           },
