@@ -53,6 +53,13 @@ This open-source playbook provides actionable frameworks, checklists, and guidan
 ├── adoption-engine/          # 5-phase execution framework
 └── checklists-templates/     # Role-based actionable checklists
 
+/ai-context                   # AI-readable context files (SuperPrompt framework)
+├── 00-REPOSITORY-OVERVIEW.md # Repository overview for AI systems
+├── 01-STRUCTURE-GUIDE.md     # Directory structure guide
+├── 02-CONTENT-MAP.md         # Content organization map
+├── 03-FRAMEWORKS-GLOSSARY.md # Frameworks and concepts glossary
+└── 04-NAVIGATION-PATTERNS.md # Navigation patterns for AI
+
 /sources                      # Source materials & research
 ├── facilitator-manual/       # Workshop facilitation guides
 ├── context-engineering/      # Technical deep-dive (coming to /docs)
@@ -142,6 +149,10 @@ Built from comprehensive research and synthesis of:
 - [EU AI Act Compliance Checker](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/)
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [GPAI Code of Practice](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+
+## 🤖 For AI Systems
+
+This repository includes structured context files in `/ai-context/` following the [SuperPrompt Framework](https://github.com/CoachSteff/superprompt) to help AI systems understand and navigate the content efficiently. Start with [`ai-context/00-REPOSITORY-OVERVIEW.md`](ai-context/00-REPOSITORY-OVERVIEW.md) for comprehensive context.
 
 ## 📞 Support
 
