@@ -41,8 +41,8 @@ These 5 phases must be executed systematically, with each phase building on the 
 
 ## Quick Start
 
-1. **Assess**: Take the [AI Maturity Assessment](/tools/assessments/maturity-assessment)
-2. **Prioritize**: Use the [Prioritization Calculator](/tools/calculators/prioritization)
+1. **Assess**: Review the [AI Maturity Assessment Framework](/docs/adoption-engine/readiness-assessment)
+2. **Prioritize**: Apply [Prioritization Frameworks](/docs/adoption-engine/prioritization)
 3. **Plan**: Follow the [7-Workstream Roadmap](/docs/adoption-engine/roadmap)
 4. **Measure**: Track ROI, ROE, and ROF
 5. **Scale**: Build your "AI Factory" with ModelOps

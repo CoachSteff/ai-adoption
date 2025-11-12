@@ -34,6 +34,9 @@ yarn-error.log*
 *.swo
 *~
 
+# Cursor AI Agents (development tools)
+.cursor/agents/
+
 # Docusaurus
 .docusaurus/
 .cache-loader/

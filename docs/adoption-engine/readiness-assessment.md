@@ -153,17 +153,19 @@ Invest more in dimensions that are blocking other progress.
 
 ## Next Steps
 
-1. **Conduct Assessment**: Use the [Interactive Maturity Assessment Tool](/tools/assessments/maturity-assessment)
-2. **Document Findings**: Create maturity profile
+1. **Conduct Assessment**: Review the framework above and self-assess across all dimensions
+2. **Document Findings**: Create maturity profile for your organization
 3. **Prioritize**: Identify critical gaps and quick wins
 4. **Plan**: Use results to inform [Strategic Prioritization](/docs/adoption-engine/prioritization)
 5. **Track Progress**: Re-assess quarterly to measure improvement
+
+**Coming in v1.1:** Interactive online assessment tool with automated scoring and personalized recommendations.
 
 ## Related Resources
 
 - [Strategic Prioritization](/docs/adoption-engine/prioritization) - What to do first
 - [Building the Roadmap](/docs/adoption-engine/roadmap) - How to get there
-- [Interactive Assessment Tool](/tools/assessments/maturity-assessment) - Online assessment
+- [Business Owner Checklist](/docs/checklists-templates/business-owner-checklist) - Actionable next steps
 
 ---
 

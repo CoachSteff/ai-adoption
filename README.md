@@ -1,6 +1,6 @@
 # Open-Source AI Adoption Playbook
 
-> A comprehensive, human-centric framework for AI adoption in EU enterprises. More than documentation—an intelligent guide powered by AI to help you navigate your AI adoption journey.
+> A comprehensive, human-centric framework for AI adoption in EU enterprises. Actionable guidance grounded in evidence-based research to help you navigate your AI adoption journey.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,19 +15,19 @@ This open-source playbook provides actionable frameworks, checklists, and guidan
 
 - **Human-Centric Approach**: Addresses the "human element" that causes 81% of AI adoption failures
 - **EU-Focused**: Comprehensive coverage of EU AI Act, NIS2, GDPR compliance
-- **AI-Powered Assistant**: Interactive guide that helps you plan your specific adoption journey
 - **Evidence-Based**: Grounded in 2024-2025 research from McKinsey, Gartner, Deloitte, and real-world implementations
 - **Actionable**: Practical frameworks, checklists, and tools—not just theory
-- **Evolving**: Continuously updated as AI adoption practices mature
+- **Open-Source**: Freely available, community-driven, continuously updated
+- **Immediately Usable**: Start applying frameworks Monday morning
 
 ## 🚀 Quick Start
 
 ### For Entrepreneurs & Business Owners
 
-1. **Assess Your Current State**: Use our [AI Maturity Assessment Tool](/tools/assessments/maturity-assessment)
-2. **Understand the Framework**: Read [Part 1: The 2025 Mandate](/docs/getting-started/the-mandate)
+1. **Understand the Landscape**: Read [Part 1: The 2025 Mandate](/docs/getting-started/the-mandate)
+2. **Assess Your Current State**: Review the [AI Maturity Assessment](/docs/adoption-engine/readiness-assessment)
 3. **Plan Your Journey**: Follow the [5-Phase Adoption Engine](/docs/adoption-engine/overview)
-4. **Get Personalized Guidance**: Chat with our AI assistant (coming soon)
+4. **Take Action**: Use the [Business Owner Checklist](/docs/checklists-templates/business-owner-checklist)
 
 ### For HR Business Partners
 
@@ -49,20 +49,27 @@ This open-source playbook provides actionable frameworks, checklists, and guidan
 /docs
 ├── getting-started/          # Introduction and overview
 ├── governance-compliance/    # EU AI Act, NIS2, GDPR, TRiSM
-├── human-centric-adoption/    # Change management, talent, EVP
+├── human-centric-adoption/   # Change management, talent, EVP
 ├── adoption-engine/          # 5-phase execution framework
-├── checklists-templates/     # Role-based actionable checklists
-├── case-studies/             # Real-world examples
-├── context-engineering/      # Technical deep-dive for practitioners
-└── cognitive-agility/        # Human skills framework
+└── checklists-templates/     # Role-based actionable checklists
+
+/sources                      # Source materials & research
+├── facilitator-manual/       # Workshop facilitation guides
+├── context-engineering/      # Technical deep-dive (coming to /docs)
+└── cognitive-agility/        # Human skills framework (coming to /docs)
 ```
 
-## 🛠️ Interactive Tools
+## 🛠️ Interactive Tools & Resources
 
-- **AI Maturity Assessment**: Evaluate your organization's current AI readiness
-- **Use Case Prioritization Calculator**: Rank and prioritize AI initiatives
-- **Checklist Generator**: Generate role-specific action items
-- **AI Assistant**: Get personalized guidance for your adoption journey
+**Currently Available:**
+- [AI Maturity Assessment Framework](/docs/adoption-engine/readiness-assessment) - Evaluate your organization across 5 maturity levels
+- [Use Case Prioritization Frameworks](/docs/adoption-engine/prioritization) - 6 frameworks for ranking AI initiatives
+- [Role-Based Checklists](/docs/checklists-templates/overview) - Actionable checklists for Business Owners, CTOs, HRBPs
+
+**Coming in v1.1:**
+- Interactive Maturity Assessment Tool (online calculator)
+- Use Case Prioritization Calculator (interactive scoring)
+- AI Assistant (personalized guidance for your adoption journey)
 
 ## 🤝 Contributing
 

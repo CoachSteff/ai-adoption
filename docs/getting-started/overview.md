@@ -49,18 +49,16 @@ This playbook re-frames AI adoption as a **change management and organizational 
 
 ### Quick Start Path
 
-1. **Assess**: Use our [AI Maturity Assessment](/tools/assessments/maturity-assessment) to understand your starting point
+1. **Assess**: Review the [AI Maturity Assessment Framework](/docs/adoption-engine/readiness-assessment) to understand your starting point
 2. **Learn**: Read [Part 1: The 2025 Mandate](/docs/getting-started/the-mandate) to understand the landscape
 3. **Plan**: Follow the [5-Phase Adoption Engine](/docs/adoption-engine/overview) to build your roadmap
 4. **Execute**: Use role-specific [checklists](/docs/checklists-templates/overview) for actionable steps
-5. **Get Help**: Chat with our AI assistant for personalized guidance
 
 ### Deep Dive Path
 
 - **Governance**: Start with [EU Compliance Framework](/docs/governance-compliance/overview)
 - **Human-Centric**: Explore [Change Management](/docs/human-centric-adoption/overview)
-- **Technical**: Dive into [Context Engineering](/docs/context-engineering/overview)
-- **Skills**: Learn about [Cognitive Agility](/docs/cognitive-agility/overview)
+- **Checklists**: Use [Role-Based Action Plans](/docs/checklists-templates/overview)
 
 ## Key Principles
 
@@ -97,13 +95,9 @@ This playbook is continuously updated as AI adoption practices mature.
 ## Next Steps
 
 - **New to AI adoption?** → Start with [The 2025 Mandate](/docs/getting-started/the-mandate)
-- **Ready to assess?** → Take the [Maturity Assessment](/tools/assessments/maturity-assessment)
+- **Ready to assess?** → Review the [Maturity Assessment Framework](/docs/adoption-engine/readiness-assessment)
 - **Need compliance help?** → Go to [Governance & Compliance](/docs/governance-compliance/overview)
 - **Focusing on people?** → Explore [Human-Centric Adoption](/docs/human-centric-adoption/overview)
-
-## Contributing
-
-This playbook is open-source and evolves through community contributions. See [Contributing Guidelines](/contributing/guidelines) to learn how you can help.
 
 ---
 
