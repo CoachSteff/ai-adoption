@@ -34,8 +34,9 @@ yarn-error.log*
 *.swo
 *~
 
-# Cursor AI Agents (development tools)
-.cursor/agents/
+# Development Tools & AI Assistants
+.claude/
+.cursor/
 
 # Docusaurus
 .docusaurus/
